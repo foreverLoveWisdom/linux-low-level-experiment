@@ -66,4 +66,4 @@ A hands-on exploration of Linux system internals and low-level programming conce
 
 ### Purpose
 
-- Understand the fundamental principles of software engineering at a low level
+- Understand the fundamental principles of software engineering at the low level
